@@ -114,7 +114,7 @@ console.log("New codec id:", id);
 ```
 The `mime` must be `application/javascript`.
 
-No create a device having this codec, and upload some data:
+Now create a device having this codec, and upload some data:
 
 ```js
 fetch("/devices/6009b02aea2b9e3d40ff1128", {
